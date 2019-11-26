@@ -1,0 +1,33 @@
+html{
+	background-image: url(background.png);}
+
+fieldset{
+    border: 2px solid rgb(125,2,217);
+    border-radius: 10px; 
+	background-color: white;
+	width: 70%;
+	top: 0px;
+	margin: 0px auto;
+	position: relative;
+	border-collapse: collapse;
+	}
+
+img{
+	text-decoration: none;
+	}
+
+a:link{color: rgb(125,2,217); text-decoration: none;}
+a:visited{color: rgb(125,2,217); text-decoration: none;}
+a:hover{color: red; text-decoration: none;}
+a:active{color: red; text-decoration: none;}
+
+body	{
+	font-family: Times New Roman;
+	color: rgb(158,5,209);
+	}
+
+h1{font-family: AR Cena; }
+
+hr{color: rgb(158,5,209); 
+text-align: center
+}
